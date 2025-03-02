@@ -1,4 +1,4 @@
-# Insturctions for completeing Lab 7 
+# Instructions for completeing Lab 7 
 ## Style an HTML Table
 
 **Objective:**
