@@ -21,7 +21,7 @@ img:hover {
   transform: scale(1.5);
 }
 
-#planet-pics {
+#planets tr:nth-child(2) td:not(:first-child) {
   background-color: black;
 }
 
